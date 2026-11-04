@@ -100,9 +100,6 @@ export default function Home() {
           </div>
 
           <div className="rating-row" data-aos="fade-left" data-aos-delay="150">
-            <Stars value={4.5} />
-            <b>4.5</b>
-            <a href="#reviews">521 Reviews</a>
           </div>
 
           <p className="hero-desc" data-aos="fade-left" data-aos-delay="250">
