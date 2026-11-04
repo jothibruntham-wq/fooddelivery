@@ -222,7 +222,7 @@ export default function Home() {
                 </li>
                 <li>
                   <strong>Phone:</strong>
-                  <a href="tel:+919876543210">+91 98765 43210</a>
+                  <a href="tel:+919876543210">+91 8904303697</a>
                 </li>
                 <li>
                   <strong>Email:</strong>
